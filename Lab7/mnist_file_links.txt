@@ -1,0 +1,3 @@
+https://www.kaggle.com/oddrationale/mnist-in-csv
+
+Working as of 8th May 2021 (Upload date)
